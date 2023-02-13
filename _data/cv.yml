@@ -33,9 +33,16 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2022
+      items: 
+        - Vulnerability Bounty Award by Firefox, Mozilla (CVE-2022-45420, $500)
+        - Vulnerability Bounty Award by Firefox, Mozilla (CVE-2022-28286, $500)
+        - Vulnerability Bounty Award by Chrome, Google (CVE-2022-4025, $3,000)
     - year: 2017
       items: 
         - Pusan National University Visiting Program (The University of Western Australia) 
     - year: 2015 - 2019
       items: 
         - Undergraduate study scholarship
+
+
