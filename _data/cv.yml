@@ -8,6 +8,18 @@
     - name: Languages
       value: Korean, English
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Ph.D Sofware Engineerning Intern
+      institution: Google, San Francisco, CA
+      year: 2022
+      description:
+        - Productionize a tool to automatically find rendering regression bugs in Chrome before users are affected. 
+
+- title: Publication
+  type: html
+  contents: papers.html  
 
 - title: Education
   type: time_table
@@ -19,15 +31,6 @@
     - title: B.S. Electrical and Computer Engineering
       institution: Pusan National University, Pusan, South Korea
       year: 2015 - 2019
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Ph.D Sofware Engineerning Intern
-      institution: Google, San Francisco, CA
-      year: 2022
-      description:
-        - Productionize a tool to automatically find rendering regression bugs in Chrome before users are affected. 
 
 
 - title: Honors and Awards

@@ -2,6 +2,8 @@
     {% for content in entry.contents %}
       <li class="list-group-item">
       <h5 class="font-italic">{{ content.title }}</h5>
+      <details>
+      <summary></summary>
       {% if content.items %}
         <ul class="subitems">
           {% for subitem in content.items %}
@@ -9,6 +11,7 @@
           {% endfor %}
         </ul>
       {% endif %}
+      </details>
       </li>
     {% endfor %}
 </ul>
